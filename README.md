@@ -51,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 ## Backtracking
 |  |
@@ -65,4 +66,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
+## Stack
+|  |
+| ------- |
+| [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 <!---LeetCode Topics End-->
