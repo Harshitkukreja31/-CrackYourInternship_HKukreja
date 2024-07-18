@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 ## Two Pointers
@@ -33,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0018-4sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+## Math
+|  |
+| ------- |
+| [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 <!---LeetCode Topics End-->
