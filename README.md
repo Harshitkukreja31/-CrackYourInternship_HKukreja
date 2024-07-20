@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0018-4sum) |
+| [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 ## Simulation
@@ -96,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 ## Monotonic Stack
 |  |
