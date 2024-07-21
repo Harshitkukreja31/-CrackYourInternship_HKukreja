@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0011-container-with-most-water) |
 | [0015-3sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0151-reverse-words-in-a-string) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
@@ -74,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
 | [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
@@ -114,4 +116,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
+## String Matching
+|  |
+| ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 <!---LeetCode Topics End-->
