@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
@@ -51,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0018-4sum) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Hash Table
@@ -58,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0001-two-sum) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -139,4 +142,24 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
+## Bucket Sort
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
+## Counting
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
+## Quickselect
+|  |
+| ------- |
+| [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 <!---LeetCode Topics End-->
