@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Two Pointers
 |  |
 | ------- |
@@ -60,6 +61,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1866-restore-the-array-from-adjacent-pairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Prefix Sum
 |  |
 | ------- |
