@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 ## Heap (Priority Queue)
@@ -172,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
 ## Depth-First Search
@@ -189,10 +192,15 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0101-symmetric-tree) |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 <!---LeetCode Topics End-->
