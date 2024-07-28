@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0726-number-of-atoms](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
@@ -187,6 +188,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -201,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0100-same-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0100-same-tree) |
 | [0101-symmetric-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0104-maximum-depth-of-binary-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -226,6 +229,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0101-symmetric-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
@@ -243,4 +247,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0099-recover-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0099-recover-binary-search-tree) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+## Linked List
+|  |
+| ------- |
+| [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 <!---LeetCode Topics End-->
