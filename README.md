@@ -131,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
 | [0726-number-of-atoms](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
@@ -144,6 +145,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0070-climbing-stairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0070-climbing-stairs) |
+| [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Monotonic Stack
@@ -278,6 +280,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0203-remove-linked-list-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0203-remove-linked-list-elements) |
 | [0206-reverse-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0234-palindrome-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Memoization
