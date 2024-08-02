@@ -17,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0022-generate-parentheses) |
 | [0055-jump-game](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0070-climbing-stairs) |
+| [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
 ## Greedy
@@ -123,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
+| [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 ## Simulation
 |  |
 | ------- |
@@ -133,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0020-valid-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0020-valid-parentheses) |
 | [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0234-palindrome-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
@@ -156,6 +160,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
+| [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
 ## String Matching
