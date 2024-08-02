@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
+| [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0055-jump-game](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0055-jump-game) |
 | [0070-climbing-stairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0070-climbing-stairs) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
 ## Greedy
 |  |
 | ------- |
@@ -242,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0112-path-sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0112-path-sum) |
 | [0199-binary-tree-right-side-view](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0199-binary-tree-right-side-view) |
 | [0226-invert-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0226-invert-binary-tree) |
+| [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
 | [0404-sum-of-left-leaves](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0404-sum-of-left-leaves) |
 | [0617-merge-two-binary-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
