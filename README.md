@@ -219,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0617-merge-two-binary-trees) |
 ## Depth-First Search
@@ -237,6 +238,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0617-merge-two-binary-trees) |
 ## Breadth-First Search
@@ -270,6 +272,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
 | [0404-sum-of-left-leaves](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0404-sum-of-left-leaves) |
+| [0543-diameter-of-binary-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0543-diameter-of-binary-tree) |
 | [0572-subtree-of-another-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0572-subtree-of-another-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0617-merge-two-binary-trees) |
 ## Hash Function
