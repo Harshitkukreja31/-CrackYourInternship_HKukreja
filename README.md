@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
+| [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
@@ -52,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
 ## Sorting
 |  |
@@ -119,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0040-combination-sum-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0077-combinations) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
+| [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
 ## Matrix
 |  |
