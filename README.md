@@ -60,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
+| [0338-counting-bits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0338-counting-bits) |
 ## Sorting
 |  |
 | ------- |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
