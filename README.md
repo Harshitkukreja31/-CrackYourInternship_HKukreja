@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
+| [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
@@ -101,6 +102,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0096-unique-binary-search-trees) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
+| [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
 ## Greedy
 |  |
 | ------- |
@@ -121,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0151-reverse-words-in-a-string) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
+| [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
 | [0726-number-of-atoms](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0726-number-of-atoms) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
 ## Backtracking
