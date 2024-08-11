@@ -59,6 +59,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0067-add-binary) |
 | [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0338-counting-bits) |
@@ -124,6 +125,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
+| [0067-add-binary](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0067-add-binary) |
 | [0071-simplify-path](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0071-simplify-path) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0151-reverse-words-in-a-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0151-reverse-words-in-a-string) |
@@ -151,6 +153,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
+| [0067-add-binary](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0067-add-binary) |
 ## Stack
 |  |
 | ------- |
@@ -174,6 +177,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0002-add-two-numbers](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0002-add-two-numbers) |
 | [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0062-unique-paths) |
+| [0067-add-binary](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0067-add-binary) |
 | [0070-climbing-stairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0096-unique-binary-search-trees) |
 | [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
