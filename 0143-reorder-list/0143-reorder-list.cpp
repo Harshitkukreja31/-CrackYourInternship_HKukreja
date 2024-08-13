@@ -11,24 +11,52 @@
 class Solution {
 public:
     void reorderList(ListNode* head) {
-        stack<ListNode*> st;
-        ListNode* temp=head;
-        while(temp!=NULL){
-            st.push(temp);
-            temp=temp->next;
+        
+        vector<ListNode*> temp;
+
+        ListNode* curr = head;
+
+        while(curr!=NULL)
+        {
+            temp.push_back(curr);
+
+            curr = curr->next;
         }
-        temp=head;
-        ListNode* temp2=head->next;
-        int size=st.size();
-        while(size>1){
-            temp->next=st.top();
-            st.top()->next=temp2;
-            st.pop();
-            temp=temp2;
-            temp2=temp->next;
-            size-=2;
+
+        // for(auto i:temp) cout<<i->val<<" ";
+
+        vector<ListNode*> vec;
+
+        int i =0;
+        int j = temp.size()-1;
+
+        while(i<=j)
+        {
+            if(i==j)
+            {
+                vec.push_back(temp[i]);
+
+                break;
+            }
+        
+            vec.push_back(temp[i]);
+            vec.push_back(temp[j]);
+
+            i++;
+            j--;
         }
-        temp->next=NULL;
-        return;
+
+        head -> next = NULL;
+
+        curr = head;
+
+        for(int i=1;i<vec.size();i++)
+        {
+            ListNode* t = new ListNode(vec[i]->val);
+
+            curr -> next = t;
+
+            curr = curr -> next;
+        }
     }
 };
