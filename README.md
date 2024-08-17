@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
 | [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
+| [0496-next-greater-element-i](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0169-majority-element](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0169-majority-element) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
+| [0496-next-greater-element-i](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0726-number-of-atoms) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
@@ -173,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0234-palindrome-linked-list) |
 | [0402-remove-k-digits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0402-remove-k-digits) |
 | [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
+| [0496-next-greater-element-i](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0496-next-greater-element-i) |
 | [0726-number-of-atoms](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0726-number-of-atoms) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
@@ -200,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
 | [0402-remove-k-digits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0402-remove-k-digits) |
+| [0496-next-greater-element-i](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0496-next-greater-element-i) |
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
