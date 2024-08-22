@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0169-majority-element) |
+| [0264-ugly-number-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0496-next-greater-element-i](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0496-next-greater-element-i) |
@@ -112,6 +113,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0096-unique-binary-search-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0096-unique-binary-search-trees) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
+| [0264-ugly-number-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0264-ugly-number-ii) |
 | [0322-coin-change](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0322-coin-change) |
 | [0338-counting-bits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0338-counting-bits) |
 | [0474-ones-and-zeroes](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0474-ones-and-zeroes) |
@@ -199,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0070-climbing-stairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0070-climbing-stairs) |
 | [0096-unique-binary-search-trees](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0096-unique-binary-search-trees) |
 | [0168-excel-sheet-column-title](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0168-excel-sheet-column-title) |
+| [0264-ugly-number-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0264-ugly-number-ii) |
 | [0273-integer-to-english-words](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0273-integer-to-english-words) |
 | [0445-add-two-numbers-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0445-add-two-numbers-ii) |
 | [0462-minimum-moves-to-equal-array-elements-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0462-minimum-moves-to-equal-array-elements-ii) |
@@ -240,6 +243,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0023-merge-k-sorted-lists) |
 | [0215-kth-largest-element-in-an-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0215-kth-largest-element-in-an-array) |
+| [0264-ugly-number-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0264-ugly-number-ii) |
 | [0347-top-k-frequent-elements](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0347-top-k-frequent-elements) |
 | [0778-reorganize-string](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0778-reorganize-string) |
 | [1762-furthest-building-you-can-reach](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1762-furthest-building-you-can-reach) |
