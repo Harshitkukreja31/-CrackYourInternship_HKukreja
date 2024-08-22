@@ -37,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1538-maximum-points-you-can-obtain-from-cards](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1538-maximum-points-you-can-obtain-from-cards) |
 | [1762-furthest-building-you-can-reach](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1762-furthest-building-you-can-reach) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1792-find-the-most-competitive-subsequence) |
 | [1866-restore-the-array-from-adjacent-pairs](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1866-restore-the-array-from-adjacent-pairs) |
 ## Two Pointers
 |  |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
 | [1762-furthest-building-you-can-reach](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1762-furthest-building-you-can-reach) |
 | [1770-minimum-deletions-to-make-character-frequencies-unique](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1770-minimum-deletions-to-make-character-frequencies-unique) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String
 |  |
 | ------- |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1792-find-the-most-competitive-subsequence) |
 ## Sliding Window
 |  |
 | ------- |
@@ -216,6 +219,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0739-daily-temperatures](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0739-daily-temperatures) |
 | [0937-online-stock-span](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0937-online-stock-span) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+| [1792-find-the-most-competitive-subsequence](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/1792-find-the-most-competitive-subsequence) |
 ## String Matching
 |  |
 | ------- |
