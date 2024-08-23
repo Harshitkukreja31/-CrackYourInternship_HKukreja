@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0033-search-in-rotated-sorted-array](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0033-search-in-rotated-sorted-array) |
+| [0037-sudoku-solver](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0040-combination-sum-ii) |
 | [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
@@ -88,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0001-two-sum) |
+| [0037-sudoku-solver](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0037-sudoku-solver) |
 | [0049-group-anagrams](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0049-group-anagrams) |
 | [0141-linked-list-cycle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0141-linked-list-cycle) |
 | [0169-majority-element](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0169-majority-element) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0022-generate-parentheses) |
+| [0037-sudoku-solver](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0037-sudoku-solver) |
 | [0040-combination-sum-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0077-combinations) |
 | [0078-subsets](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0078-subsets) |
@@ -166,6 +169,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0037-sudoku-solver) |
 | [0048-rotate-image](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
