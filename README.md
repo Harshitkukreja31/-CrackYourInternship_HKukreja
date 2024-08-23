@@ -16,6 +16,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0054-spiral-matrix](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0054-spiral-matrix) |
 | [0055-jump-game](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0055-jump-game) |
 | [0075-sort-colors](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0075-sort-colors) |
+| [0078-subsets](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0084-largest-rectangle-in-histogram](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0084-largest-rectangle-in-histogram) |
 | [0085-maximal-rectangle](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0085-maximal-rectangle) |
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0067-add-binary](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0067-add-binary) |
+| [0078-subsets](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0287-find-the-duplicate-number](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0287-find-the-duplicate-number) |
 | [0338-counting-bits](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0338-counting-bits) |
@@ -157,6 +159,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0022-generate-parentheses) |
 | [0040-combination-sum-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0040-combination-sum-ii) |
 | [0077-combinations](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0077-combinations) |
+| [0078-subsets](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0079-word-search) |
 | [0090-subsets-ii](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0090-subsets-ii) |
 | [0257-binary-tree-paths](https://github.com/Harshitkukreja31/-CrackYourInternship_HKukreja/tree/master/0257-binary-tree-paths) |
